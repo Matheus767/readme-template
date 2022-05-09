@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://img.freepik.com/vetores-gratis/retrato-de-programador-trabalhando-com-pc_23-2148222500.jpg?t=st=1652114567~exp=1652115167~hmac=aff1e78eb0198b18a575530e94072613d5a47b35b9930e52502da67f204d7253&w=740" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
